@@ -10,10 +10,10 @@
 		2A0F631521CF85C1007B4C09 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A0F631421CF85C1007B4C09 /* AppDelegate.swift */; };
 		2A0F631721CF85C1007B4C09 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A0F631621CF85C1007B4C09 /* ViewController.swift */; };
 		2A0F631A21CF85C1007B4C09 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2A0F631821CF85C1007B4C09 /* Main.storyboard */; };
-		2A0F631C21CF85C3007B4C09 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2A0F631B21CF85C3007B4C09 /* Assets.xcassets */; };
 		2A0F631F21CF85C3007B4C09 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2A0F631D21CF85C3007B4C09 /* LaunchScreen.storyboard */; };
 		2A0F632A21CF85C3007B4C09 /* WeatherXTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A0F632921CF85C3007B4C09 /* WeatherXTests.swift */; };
 		2A0F633521CF85C3007B4C09 /* WeatherXUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A0F633421CF85C3007B4C09 /* WeatherXUITests.swift */; };
+		2A0F634521CF894D007B4C09 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2A0F634421CF894D007B4C09 /* Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,7 +38,6 @@
 		2A0F631421CF85C1007B4C09 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		2A0F631621CF85C1007B4C09 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		2A0F631921CF85C1007B4C09 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		2A0F631B21CF85C3007B4C09 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2A0F631E21CF85C3007B4C09 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2A0F632021CF85C3007B4C09 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2A0F632521CF85C3007B4C09 /* WeatherXTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WeatherXTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -47,6 +46,7 @@
 		2A0F633021CF85C3007B4C09 /* WeatherXUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WeatherXUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2A0F633421CF85C3007B4C09 /* WeatherXUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherXUITests.swift; sourceTree = "<group>"; };
 		2A0F633621CF85C3007B4C09 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2A0F634421CF894D007B4C09 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,7 +100,7 @@
 				2A0F631421CF85C1007B4C09 /* AppDelegate.swift */,
 				2A0F631621CF85C1007B4C09 /* ViewController.swift */,
 				2A0F631821CF85C1007B4C09 /* Main.storyboard */,
-				2A0F631B21CF85C3007B4C09 /* Assets.xcassets */,
+				2A0F634421CF894D007B4C09 /* Assets.xcassets */,
 				2A0F631D21CF85C3007B4C09 /* LaunchScreen.storyboard */,
 				2A0F632021CF85C3007B4C09 /* Info.plist */,
 			);
@@ -230,7 +230,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2A0F631F21CF85C3007B4C09 /* LaunchScreen.storyboard in Resources */,
-				2A0F631C21CF85C3007B4C09 /* Assets.xcassets in Resources */,
+				2A0F634521CF894D007B4C09 /* Assets.xcassets in Resources */,
 				2A0F631A21CF85C1007B4C09 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
